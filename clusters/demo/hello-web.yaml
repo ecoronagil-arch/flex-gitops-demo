@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: hello-web
-        image: us-west2-docker.pkg.dev/totemic-audio-512904-f8/quickstart-docker-repo/hello-web:ae84da3
+        image: us-west2-docker.pkg.dev/totemic-audio-512904-f8/quickstart-docker-repo/hello-web:3a5ae61
         ports:
         - containerPort: 8080
         resources:
